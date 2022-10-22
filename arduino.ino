@@ -1,9 +1,12 @@
+#define volt_pin A0    // pin recieving voltage from battery
+#define baud_rate 9600 // baud rate for serial monitor
+
 void setup() {
-  // put your setup code here, to run once:
+  Serial.begin(baud_rate);
 
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  Serial.println(volt_pin);
 
 }
