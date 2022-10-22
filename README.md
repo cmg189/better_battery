@@ -53,7 +53,7 @@ Some possible next steps for Better Battery are:
 
 - Faster testing platform
 
-## Things to improve on give more time
+## Things to improve on given more time
 
 If I were allotted more time I would have figured out the optimal Python library that would allow communication between the host computer and the Arduino board.
 
