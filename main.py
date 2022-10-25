@@ -6,7 +6,7 @@ if __name__ == "__main__":
     ardunino_data = serial.Serial('/dev/cu.usbserial-1420', 9600)
 
     # read data from arduino
-    arduino_data.read(battery_volt)
+    battery_volt = arduino_data.read()
 
     # open log file to overwrite existing data
     file_output = open("log.txt", "w")
