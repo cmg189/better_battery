@@ -35,8 +35,7 @@ Better Battery was built by using a number of different technologies:
 - Bash for automation of commits and pushes to GitHub
 
 ## Circuit
-
-<img align="left" alt="circuit" height= "500" width="500" src="images/circuit.png"/>
+<img align="center" alt="circuit" height= "500" width="500" src="images/circuit.png"/>
 
 *10K Ohm resistor connected to A0 pin and common ground*
 
