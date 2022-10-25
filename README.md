@@ -36,7 +36,7 @@ Better Battery was built by using a number of different technologies:
 
 ## Process Overview
 
-<img align="center" alt="process" height= "250" width="1100" src="images/process.png"/>
+<img align="center" alt="process" height= "350" width="1100" src="images/process.png"/>
 
 *Execution flow of processes for better battery*
 
