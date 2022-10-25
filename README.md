@@ -1,15 +1,15 @@
 ## Acknowledgements
 <img align="center" alt="award" height= "250" width="1100" src="images/award.PNG"/>
 
-Better Battery won 1st place at the 2022 University of North Texas NSBE Hackathon for *Most Creative Use of GitHub* challenge
+Better Battery won 1st place at the 2022 University of North Texas NSBE Hackathon for *Most Creative Use of GitHub* challenge!
 
 ## Description
 
-Better Battery is a creative way to use GitHub for tracking a batteries remaining charge
+Better Battery is a creative way to use GitHub for tracking the remaining charge of batteries.
 
 ## Inspiration
 
-One of GitHub's main uses is tracking any changes made in code repositories.
+One of GitHub's main features is the ability to track any changes made in code repositories.
 
 The theme of tracking changes has inspired me to think outside the box and come up with a creative way to use GitHub.
 
@@ -20,46 +20,40 @@ Then it hit me, **Batteries!**
 
 ## What it does
 
-Better Battery utilizes GitHub to track the change in battery capacity over time so that anyone can better their understanding of battery utilization!
+Better Battery utilizes GitHub to track the remaining charge in batteries over time so that anyone can better their understanding of battery utilization!
 
-## How it was built built
+## How it was built
 
 Better Battery was built by using a number of different technologies:
 
-- An Arduino board for taking input of battery voltage
+- An Arduino Nano for taking input of battery voltage
 
 - GitHub for tracking the changes of a batteries power
 
-- Python for communication with the host computer and the Arduino
+- Python for communication between the host computer and the Arduino
 
 - Bash for automation of commits and pushes to GitHub
 
-## Challenges we ran into
+## Challenges I ran into
 
-- Communication with the host computer and the Arduino
+- Sufficient python libraries to enable communication between the host computer and the Arduino
 
-- Automation of commits and pushes to GitHub
+- Reliable voltage readings to ensure consistent battery charge
 
-## What we learned
+## What I learned
 
 - Reading in a battery's voltage using an Arduino
 
 - Automation of commits and pushes to GitHub using Bash
 
-- Communication between the host computer and the Arduino
+- Python for communication between the host computer and the Arduino
 
 ## What's next for Better Battery
 
-Some possible next steps for Better Battery are:
+Future improvements for Better Battery are:
 
-- Improved UI for user's to visualize their battery's changes in capacity
+- Improved UI for user's to visualize their battery's remaining change
 
 - Implement a wider range of batteries to test
 
 - Faster testing platform
-
-## Things to improve on given more time
-
-If I were allotted more time I would have figured out the optimal Python library that would allow communication between the host computer and the Arduino board.
-
-Since I have almost finished the project I have every intention to ensure that **Better Battery** is up and running.
