@@ -34,6 +34,12 @@ Better Battery was built by using a number of different technologies:
 
 - Bash for automation of commits and pushes to GitHub
 
+## Process Overview
+
+<img align="center" alt="process" height= "250" width="1100" src="images/process.png"/>
+
+*Execution flow of processes for better battery*
+
 ## Circuit
 <img align="center" alt="circuit" height= "500" width="500" src="images/circuit.png"/>
 
