@@ -1,3 +1,8 @@
+## Acknowledgements
+<img align="center" alt="award" height= "250" width="1100" src="images/award.PNG"/>
+
+Better Battery was awarded
+
 ## Description
 
 Better Battery is a creative way to use GitHub for tracking a batteries remaining charge
