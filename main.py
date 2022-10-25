@@ -1,8 +1,7 @@
 import serial
 
-if __name__ == "__main__":
-
-    # open communication with arduino using port from macbook and specify baud rate
+def main():
+	# open communication with arduino using port from macbook and specify baud rate
     ardunino_data = serial.Serial('/dev/cu.usbserial-1420', 9600)
 
     # read data from arduino
@@ -15,3 +14,6 @@ if __name__ == "__main__":
     file_output.write(battery_volt)
 
     file_ouput.close()
+
+if __name__ == "__main__":
+	main()
