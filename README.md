@@ -39,6 +39,8 @@ Better Battery was built by using a number of different technologies:
 
 *10K Ohm resistor connected to A0 pin and common ground*
 
+**Note:** Circuit can accommodate up to 5 volts
+
 ## Challenges I ran into
 
 - Sufficient python libraries to enable communication between the host computer and the Arduino
