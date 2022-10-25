@@ -1,7 +1,7 @@
 ## Acknowledgements
 <img align="center" alt="award" height= "250" width="1100" src="images/award.PNG"/>
 
-Better Battery was awarded
+Better Battery won 1st place at the 2022 University of North Texas NSBE Hackathon for *Most Creative Use of GitHub* challenge
 
 ## Description
 
