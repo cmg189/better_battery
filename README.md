@@ -48,6 +48,13 @@ Better Battery was built by using a number of different technologies:
 
 ## Process Overview <a name="process"></a>
 
+This process begins by:
+
+1. Executing a bash script that will sleep for 30 seconds
+2. Arduino reading in the voltage of a battery from the circuit
+3. Python script to write the voltages to a file
+4. Bash script wakes up to perform the git add, commit, and push to github
+
 <img align="center" alt="process" height= "350" width="1100" src="images/process.png"/>
 
 *Execution flow of processes for better battery*
