@@ -8,7 +8,8 @@ Better Battery is a creative way to use GitHub for tracking the remaining charge
 2. [Acknowledgements](#ack)
 3. [Technologies](#tech)
 4. [Process Overview](#process)
-5. [Future Work](#future)
+5. [Circuit](#circuit)
+6. [Future Work](#future)
 
 ## Description <a name="description"></a>
 
@@ -51,13 +52,15 @@ Better Battery was built by using a number of different technologies:
 
 *Execution flow of processes for better battery*
 
+## Circuit <a name="circuit"></a>
+
 <img align="center" alt="circuit" height= "500" width="500" src="images/circuit.png"/>
 
 *10K Ohm resistor connected to A0 pin and common ground*
 
 **Note:** Circuit can accommodate up to 5 volts
 
-## What's next for Better Battery
+## Future Work <a name="future"></a>
 
 Future improvements for Better Battery are:
 
