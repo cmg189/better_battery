@@ -1,28 +1,39 @@
-## Acknowledgements
-<img align="center" alt="award" height= "250" width="1100" src="images/award.PNG"/>
-
-Better Battery won 1st place at the 2022 University of North Texas NSBE Hackathon for *Most Creative Use of GitHub* challenge!
-
-## Description
+## Better Battery
 
 Better Battery is a creative way to use GitHub for tracking the remaining charge of batteries.
 
-## Inspiration
+## Table of Contents
+
+1. [Description](#description)
+2. [Acknowledgements](#ack)
+3. [Technologies](#tech)
+4. [Process Overview](#process)
+5. [Future Work](#future)
+
+## Description <a name="description"></a>
 
 One of GitHub's main features is the ability to track any changes made in code repositories.
 
 The theme of tracking changes has inspired me to think outside the box and come up with a creative way to use GitHub.
 
 One question I asked myself is _What things do I care to track changes over time?_
+
 As I used my phone to try and conjure up ideas, I noticed my battery was about to die.
 
 Then it hit me, **Batteries!**
 
-## What it does
-
 Better Battery utilizes GitHub to track the remaining charge in batteries over time so that anyone can better their understanding of battery utilization!
 
-## How it was built
+## Acknowledgements <a name="ack"></a>
+
+<img align="center" alt="award" height= "250" width="1100" src="images/award.PNG"/>
+
+Better Battery won 1st place at the University of North Texas `22 NSBE Hackathon in the
+
+*Most Creative Use of GitHub* challenge!
+
+
+## Technologies <a name="tech"></a>
 
 Better Battery was built by using a number of different technologies:
 
@@ -34,32 +45,17 @@ Better Battery was built by using a number of different technologies:
 
 - Bash for automation of commits and pushes to GitHub
 
-## Process Overview
+## Process Overview <a name="process"></a>
 
 <img align="center" alt="process" height= "350" width="1100" src="images/process.png"/>
 
 *Execution flow of processes for better battery*
 
-## Circuit
 <img align="center" alt="circuit" height= "500" width="500" src="images/circuit.png"/>
 
 *10K Ohm resistor connected to A0 pin and common ground*
 
 **Note:** Circuit can accommodate up to 5 volts
-
-## Challenges I ran into
-
-- Sufficient python libraries to enable communication between the host computer and the Arduino
-
-- Reliable voltage readings to ensure consistent battery charge
-
-## What I learned
-
-- Reading in a battery's voltage using an Arduino
-
-- Automation of commits and pushes to GitHub using Bash
-
-- Python for communication between the host computer and the Arduino
 
 ## What's next for Better Battery
 
