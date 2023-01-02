@@ -13,15 +13,19 @@ Better Battery is a creative way to use GitHub for tracking the remaining charge
 
 ## Description <a name="description"></a>
 
+Problem Statement:
+
+Demonstrate a creative way to use GitHub and it's features.
+
+Thoughts:
+
 One of GitHub's main features is the ability to track any changes made in code repositories.
 
-The theme of tracking changes has inspired me to think outside the box and come up with a creative way to use GitHub.
+I asked myself _What changes do I care to track over time?_
 
-One question I asked myself is _What things do I care to track changes over time?_
+Noticing my battery was about to die it occurred to me,
 
-As I used my phone to try and conjure up ideas, I noticed my battery was about to die.
-
-Then it hit me, **Batteries!**
+**Batteries!**
 
 Better Battery utilizes GitHub to track the remaining charge in batteries over time so that anyone can better their understanding of battery utilization!
 
@@ -29,7 +33,7 @@ Better Battery utilizes GitHub to track the remaining charge in batteries over t
 
 <img align="center" alt="award" height= "250" width="1100" src="images/award.PNG"/>
 
-Better Battery won 1st place at the University of North Texas `22 NSBE Hackathon in the
+Better Battery won 1st place at The University of North Texas `22 NSBE Hackathon in the
 
 *Most Creative Use of GitHub* challenge!
 
